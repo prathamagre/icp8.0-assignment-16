@@ -1,0 +1,86 @@
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .navbar {
+            background-color: rgb(255, 240, 127);
+            top: 0;
+            position: sticky;
+        }
+
+        .header-txt {
+            position: relative;
+            bottom: 20px;
+            font-size: 30px;
+            color: rgb(142, 98, 32);
+        }
+
+        .menu-txt {
+            color: rgb(167, 70, 70);
+            text-align: center;
+            font-size: 50px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        .txt3 {
+            text-align: center;
+            padding: 10px;
+            margin: 0;
+            font-size: 20px;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: rgb(141, 102, 4);
+        }
+
+        .offer {
+            border: none;
+            background-color: rgb(190, 230, 121);
+            position: absolute;
+            left: 150px;
+            top: -60px;
+            border-radius: 50%;
+            padding: 12px;
+            font-size: 20px;
+            text-align: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        .chatbot {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            border-radius: 50px;
+            padding: 5px;
+        }
+
+        .card {
+            padding: 0px;
+            position: relative;
+            height: 400px;
+            width: 250px;
+            background-color: #fbf7f7;
+            border: none;
+            border-radius: 10px;
+            padding: ;
+            margin: 20px;
+            box-shadow: 0 0 30px #808080;
+            display: inline-block;
+        }
+
+        .card-image {
+            height: 300px;
+            width: 250px;
+            border-radius: 10px 10px 0 0;
+        }
+
+        .btn {
+            margin-left: 80px;
+            border-radius: 50px;
+            padding: 10px 20px;
+        }
+
+        .card-container {
+            margin-left: 100px;
+        }
